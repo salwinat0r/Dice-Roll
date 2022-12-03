@@ -1,4 +1,4 @@
 # Dice-Roll
 Refresh to see who wins
 
-Project link: https://salwyn13.github.io/Dice-Roll/dicee.html
+Project link: https://salwinat0r.github.io/Dice-Roll/dicee.html
